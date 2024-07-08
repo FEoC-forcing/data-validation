@@ -4,7 +4,7 @@ The purpose of this repository is to record who is evaluating the different CMIP
 ## 1. First clone this repo 
 
 ## 2. Add a file with details of your repository, this will register your interest in the Fresh Eyes on CMIP Forcing project: 
-Filename should be \<\gitusername\>\_\<\forcingdataset\>\.txt replacing what is between the <> with your details 
+Filename should be \<gitusername\>\_\<forcingdataset\>\.txt replacing what is between the <> with your details 
 
 ## 3. What to include in the file:
    i)   Which Forcing dataset you are interested in
